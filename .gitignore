@@ -1,0 +1,5 @@
+venv/
+data/*.RData
+data/*.csv
+results/synthetic_data/
+__pycache__/

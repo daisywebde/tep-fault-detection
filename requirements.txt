@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+# optional: only needed to read the .RData files directly (or convert them to CSV in R instead)
+pyreadr
+# optional: only needed to open the notebook
+jupyter
