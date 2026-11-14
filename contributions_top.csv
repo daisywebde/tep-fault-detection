@@ -1,0 +1,201 @@
+fault,statistic,rank,variable,description,contribution_pct
+1,SPE,1,xmeas_20,Compressor work,16.5
+1,SPE,2,xmeas_16,Stripper pressure,13.6
+1,SPE,3,xmeas_23,composition analyser,12.6
+1,SPE,4,xmeas_4,A+C feed (stream 4),7.8
+1,SPE,5,xmeas_21,Reactor cooling water outlet temp,6.0
+1,SPE,6,xmv_5,Compressor recycle valve,5.4
+1,SPE,7,xmeas_7,Reactor pressure,4.7
+1,SPE,8,xmv_4,A+C feed flow valve,4.3
+1,SPE,9,xmeas_13,Product separator pressure,3.6
+1,SPE,10,xmeas_27,composition analyser,3.6
+2,T2,1,xmeas_10,Purge rate (stream 9),26.2
+2,T2,2,xmv_6,Purge valve,23.6
+2,T2,3,xmeas_30,composition analyser,22.5
+2,T2,4,xmeas_24,composition analyser,10.8
+2,T2,5,xmeas_34,composition analyser,1.4
+2,T2,6,xmeas_16,Stripper pressure,1.2
+2,T2,7,xmeas_28,composition analyser,1.2
+2,T2,8,xmeas_7,Reactor pressure,0.9
+2,T2,9,xmeas_13,Product separator pressure,0.8
+2,T2,10,xmeas_25,composition analyser,0.8
+3,SPE,1,xmeas_29,composition analyser,12.3
+3,SPE,2,xmeas_33,composition analyser,12.1
+3,SPE,3,xmeas_4,A+C feed (stream 4),10.5
+3,SPE,4,xmv_1,D feed flow valve,9.3
+3,SPE,5,xmeas_25,composition analyser,9.2
+3,SPE,6,xmv_4,A+C feed flow valve,5.9
+3,SPE,7,xmeas_38,composition analyser,5.8
+3,SPE,8,xmeas_2,D feed (stream 2),4.6
+3,SPE,9,xmeas_11,Product separator temp,4.1
+3,SPE,10,xmv_10,Reactor cooling water valve,3.4
+4,SPE,1,xmv_10,Reactor cooling water valve,44.5
+4,SPE,2,xmeas_9,Reactor temperature,38.0
+4,SPE,3,xmeas_29,composition analyser,2.4
+4,SPE,4,xmeas_33,composition analyser,1.8
+4,SPE,5,xmeas_31,composition analyser,1.4
+4,SPE,6,xmv_1,D feed flow valve,1.4
+4,SPE,7,xmeas_25,composition analyser,1.3
+4,SPE,8,xmeas_2,D feed (stream 2),1.3
+4,SPE,9,xmeas_38,composition analyser,1.2
+4,SPE,10,xmeas_4,A+C feed (stream 4),0.9
+5,T2,1,xmeas_11,Product separator temp,13.3
+5,T2,2,xmeas_35,composition analyser,9.7
+5,T2,3,xmeas_22,Separator cooling water outlet temp,6.7
+5,T2,4,xmeas_16,Stripper pressure,6.5
+5,T2,5,xmeas_7,Reactor pressure,6.1
+5,T2,6,xmeas_13,Product separator pressure,5.8
+5,T2,7,xmeas_20,Compressor work,3.9
+5,T2,8,xmeas_31,composition analyser,3.3
+5,T2,9,xmeas_8,Reactor level,3.3
+5,T2,10,xmeas_36,composition analyser,3.0
+6,SPE,1,xmv_3,A feed flow valve,42.8
+6,SPE,2,xmeas_1,A feed (stream 1),42.4
+6,SPE,3,xmeas_20,Compressor work,3.9
+6,SPE,4,xmeas_23,composition analyser,1.7
+6,SPE,5,xmv_5,Compressor recycle valve,1.6
+6,SPE,6,xmeas_16,Stripper pressure,1.4
+6,SPE,7,xmeas_4,A+C feed (stream 4),1.0
+6,SPE,8,xmeas_21,Reactor cooling water outlet temp,0.8
+6,SPE,9,xmeas_27,composition analyser,0.6
+6,SPE,10,xmv_4,A+C feed flow valve,0.5
+7,SPE,1,xmeas_4,A+C feed (stream 4),25.6
+7,SPE,2,xmv_4,A+C feed flow valve,13.3
+7,SPE,3,xmeas_35,composition analyser,5.8
+7,SPE,4,xmeas_33,composition analyser,5.6
+7,SPE,5,xmeas_38,composition analyser,5.6
+7,SPE,6,xmeas_16,Stripper pressure,5.6
+7,SPE,7,xmeas_20,Compressor work,3.6
+7,SPE,8,xmeas_25,composition analyser,3.4
+7,SPE,9,xmeas_31,composition analyser,3.3
+7,SPE,10,xmeas_21,Reactor cooling water outlet temp,3.3
+8,T2,1,xmv_3,A feed flow valve,13.0
+8,T2,2,xmeas_1,A feed (stream 1),13.0
+8,T2,3,xmeas_29,composition analyser,7.6
+8,T2,4,xmeas_23,composition analyser,7.1
+8,T2,5,xmeas_31,composition analyser,5.3
+8,T2,6,xmeas_25,composition analyser,5.3
+8,T2,7,xmeas_16,Stripper pressure,4.9
+8,T2,8,xmeas_22,Separator cooling water outlet temp,2.5
+8,T2,9,xmeas_7,Reactor pressure,2.4
+8,T2,10,xmeas_11,Product separator temp,2.4
+9,SPE,1,xmeas_29,composition analyser,13.7
+9,SPE,2,xmv_1,D feed flow valve,13.3
+9,SPE,3,xmeas_21,Reactor cooling water outlet temp,10.3
+9,SPE,4,xmeas_31,composition analyser,9.1
+9,SPE,5,xmeas_4,A+C feed (stream 4),7.6
+9,SPE,6,xmeas_33,composition analyser,7.5
+9,SPE,7,xmeas_25,composition analyser,7.0
+9,SPE,8,xmeas_38,composition analyser,5.4
+9,SPE,9,xmv_4,A+C feed flow valve,4.3
+9,SPE,10,xmeas_22,Separator cooling water outlet temp,3.7
+10,SPE,1,xmeas_18,Stripper temperature,24.8
+10,SPE,2,xmeas_19,Stripper steam flow,16.3
+10,SPE,3,xmeas_38,composition analyser,15.4
+10,SPE,4,xmv_9,Stripper steam valve,4.8
+10,SPE,5,xmeas_29,composition analyser,4.1
+10,SPE,6,xmeas_25,composition analyser,3.5
+10,SPE,7,xmeas_31,composition analyser,2.9
+10,SPE,8,xmeas_23,composition analyser,2.8
+10,SPE,9,xmeas_2,D feed (stream 2),2.7
+10,SPE,10,xmeas_33,composition analyser,2.5
+11,SPE,1,xmv_10,Reactor cooling water valve,45.5
+11,SPE,2,xmeas_9,Reactor temperature,39.1
+11,SPE,3,xmeas_21,Reactor cooling water outlet temp,1.7
+11,SPE,4,xmeas_31,composition analyser,1.3
+11,SPE,5,xmeas_33,composition analyser,1.2
+11,SPE,6,xmv_1,D feed flow valve,1.2
+11,SPE,7,xmeas_2,D feed (stream 2),1.2
+11,SPE,8,xmeas_25,composition analyser,1.0
+11,SPE,9,xmeas_29,composition analyser,0.8
+11,SPE,10,xmeas_4,A+C feed (stream 4),0.8
+12,T2,1,xmeas_22,Separator cooling water outlet temp,32.0
+12,T2,2,xmeas_11,Product separator temp,20.1
+12,T2,3,xmeas_35,composition analyser,4.5
+12,T2,4,xmeas_21,Reactor cooling water outlet temp,3.9
+12,T2,5,xmeas_36,composition analyser,3.8
+12,T2,6,xmeas_16,Stripper pressure,2.5
+12,T2,7,xmeas_13,Product separator pressure,2.0
+12,T2,8,xmeas_26,composition analyser,2.0
+12,T2,9,xmeas_7,Reactor pressure,1.8
+12,T2,10,xmeas_8,Reactor level,1.8
+13,SPE,1,xmeas_16,Stripper pressure,17.3
+13,SPE,2,xmeas_33,composition analyser,11.2
+13,SPE,3,xmeas_38,composition analyser,9.9
+13,SPE,4,xmeas_7,Reactor pressure,9.7
+13,SPE,5,xmeas_13,Product separator pressure,8.1
+13,SPE,6,xmeas_25,composition analyser,6.4
+13,SPE,7,xmeas_21,Reactor cooling water outlet temp,5.1
+13,SPE,8,xmeas_31,composition analyser,4.9
+13,SPE,9,xmeas_35,composition analyser,3.7
+13,SPE,10,xmeas_20,Compressor work,3.3
+14,T2,1,xmeas_9,Reactor temperature,40.3
+14,T2,2,xmv_10,Reactor cooling water valve,38.8
+14,T2,3,xmeas_21,Reactor cooling water outlet temp,11.0
+14,T2,4,xmeas_37,composition analyser,0.6
+14,T2,5,xmeas_41,composition analyser,0.5
+14,T2,6,xmeas_26,composition analyser,0.5
+14,T2,7,xmeas_24,composition analyser,0.4
+14,T2,8,xmeas_36,composition analyser,0.4
+14,T2,9,xmv_2,E feed flow valve,0.4
+14,T2,10,xmeas_28,composition analyser,0.3
+15,SPE,1,xmeas_29,composition analyser,17.7
+15,SPE,2,xmv_1,D feed flow valve,11.2
+15,SPE,3,xmeas_33,composition analyser,10.9
+15,SPE,4,xmeas_4,A+C feed (stream 4),10.4
+15,SPE,5,xmeas_38,composition analyser,9.2
+15,SPE,6,xmeas_25,composition analyser,8.9
+15,SPE,7,xmv_4,A+C feed flow valve,5.9
+15,SPE,8,xmeas_2,D feed (stream 2),3.9
+15,SPE,9,xmv_10,Reactor cooling water valve,3.6
+15,SPE,10,xmeas_23,composition analyser,2.7
+16,SPE,1,xmv_9,Stripper steam valve,27.0
+16,SPE,2,xmeas_19,Stripper steam flow,9.8
+16,SPE,3,xmeas_18,Stripper temperature,7.6
+16,SPE,4,xmeas_38,composition analyser,5.5
+16,SPE,5,xmeas_29,composition analyser,4.8
+16,SPE,6,xmeas_25,composition analyser,4.2
+16,SPE,7,xmeas_33,composition analyser,4.1
+16,SPE,8,xmeas_2,D feed (stream 2),4.1
+16,SPE,9,xmeas_4,A+C feed (stream 4),3.9
+16,SPE,10,xmeas_23,composition analyser,3.7
+17,SPE,1,xmeas_21,Reactor cooling water outlet temp,60.2
+17,SPE,2,xmeas_2,D feed (stream 2),14.9
+17,SPE,3,xmv_1,D feed flow valve,14.5
+17,SPE,4,xmeas_22,Separator cooling water outlet temp,2.6
+17,SPE,5,xmv_10,Reactor cooling water valve,1.2
+17,SPE,6,xmeas_11,Product separator temp,1.2
+17,SPE,7,xmeas_16,Stripper pressure,0.6
+17,SPE,8,xmv_3,A feed flow valve,0.6
+17,SPE,9,xmeas_1,A feed (stream 1),0.6
+17,SPE,10,xmeas_29,composition analyser,0.4
+18,SPE,1,xmeas_11,Product separator temp,49.0
+18,SPE,2,xmeas_22,Separator cooling water outlet temp,31.5
+18,SPE,3,xmeas_38,composition analyser,2.3
+18,SPE,4,xmeas_21,Reactor cooling water outlet temp,1.6
+18,SPE,5,xmv_5,Compressor recycle valve,1.6
+18,SPE,6,xmv_1,D feed flow valve,1.5
+18,SPE,7,xmeas_13,Product separator pressure,1.4
+18,SPE,8,xmeas_19,Stripper steam flow,1.3
+18,SPE,9,xmeas_2,D feed (stream 2),1.1
+18,SPE,10,xmeas_7,Reactor pressure,1.0
+19,T2,1,xmeas_5,Recycle flow (stream 8),25.7
+19,T2,2,xmeas_9,Reactor temperature,7.5
+19,T2,3,xmv_10,Reactor cooling water valve,6.6
+19,T2,4,xmeas_6,Reactor feed rate (stream 6),3.8
+19,T2,5,xmeas_37,composition analyser,3.1
+19,T2,6,xmeas_3,E feed (stream 3),2.8
+19,T2,7,xmeas_34,composition analyser,2.5
+19,T2,8,xmeas_28,composition analyser,2.5
+19,T2,9,xmeas_32,composition analyser,2.2
+19,T2,10,xmeas_30,composition analyser,2.1
+20,SPE,1,xmv_5,Compressor recycle valve,41.6
+20,SPE,2,xmeas_20,Compressor work,10.3
+20,SPE,3,xmeas_7,Reactor pressure,6.5
+20,SPE,4,xmeas_23,composition analyser,5.7
+20,SPE,5,xmeas_33,composition analyser,3.9
+20,SPE,6,xmeas_16,Stripper pressure,3.8
+20,SPE,7,xmeas_13,Product separator pressure,3.6
+20,SPE,8,xmeas_29,composition analyser,3.5
+20,SPE,9,xmeas_11,Product separator temp,3.3
+20,SPE,10,xmeas_38,composition analyser,2.2
