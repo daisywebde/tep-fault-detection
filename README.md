@@ -97,9 +97,4 @@ make_synthetic.py    fake data in the TEP layout, for smoke tests only
 tests/test_core.py   correctness checks (contributions sum to the statistics, false-alarm rate, ...)
 TEP_fault_detection.ipynb
 ```
-
-## 7. Resume bullets (fill in the numbers from YOUR run)
-
-- Built a multivariate fault-detection pipeline on the Tennessee Eastman Process benchmark in Python (pandas, NumPy, scikit-learn), using PCA with Hotelling's T² and SPE statistics and control limits calibrated on held-out normal runs.
-- Benchmarked against Isolation Forest across N fault types: PCA detected X of N faults with a mean false alarm rate of Y%, median detection delay Z minutes.
-- Implemented contribution analysis to rank the process variables behind each alarm (root cause identification) and exported monitoring results for dashboarding.
+.
